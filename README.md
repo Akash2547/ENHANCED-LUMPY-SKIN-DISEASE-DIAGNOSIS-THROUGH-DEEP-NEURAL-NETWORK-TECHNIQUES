@@ -1,3 +1,7 @@
+# ENHANCED-LUMPY-SKIN-DISEASE-DIAGNOSIS-THROUGH-DEEP-NEURAL-NETWORK-TECHNIQUES
+([ENHANCED-LUMPY-SKIN-DISEASE-DIAGNOSIS-THROUGH-DEEP-NEURAL-NETWORK-TECHNIQUES](https://huggingface.co/spaces/Dev176/LUMPY-PJT))
+
+
 Overview:
 
 Lumpy Skin Disease (LSD) is a viral infection that poses a significant threat to the global cattle industry. It is caused by the capripoxvirus from the Poxviridae family and is characterized by nodules or lumps on the skin, often accompanied by systemic symptoms such as fever, reduced milk production, and decreased fertility. Severe cases can lead to permanent hide damage, lower meat quality, and increased mortality rates. The economic impact of LSD outbreaks includes reduced productivity, higher disease management costs, and trade restrictions, affecting both livelihoods and food security.
